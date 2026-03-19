@@ -1,7 +1,5 @@
 # Social Robot Build & Setup Guide
 
-![Hero shot placeholder](images/hero-shot-placeholder.jpg)
-
 ## Overview
 The Social Robot project combines a 3D-printed chassis, off-the-shelf electronics, and an interactive software stack that renders a projected face while chatting via a local language model. This guide walks you through sourcing the hardware, printing parts, building the robot, and configuring the Jetson-powered software stack.
 
@@ -13,8 +11,6 @@ The Social Robot project combines a 3D-printed chassis, off-the-shelf electronic
 - <h3>📺 <a href="https://vimeo.com/1120539378/5c16415a2a">Full robot build instruction video</a></h3>
 - <h3>📺 <a href="https://youtu.be/0hvnBBC9HRI">Bijan Bowen YouTube Video On Robot & Software setup tutorial</a></h3>
 - <h3>🎛️ <a href="https://vimeo.com/1120544089">Optional Arduino head-movement video</a></h3>
-
-![Exploded view placeholder](images/exploded-view-placeholder.jpg)
 
 ## Software Setup
 
