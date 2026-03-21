@@ -126,4 +126,4 @@ If you plan to add head motion, watch the **[Arduino instruction video](https://
   ```
 - If you are unable to get Chromium to launch on the Jetson/Jetpack 6.2, see these instructions: [Chromium Jetson Fix](https://forums.developer.nvidia.com/t/chromium-other-browsers-not-working-after-flashing-or-updating-heres-why-and-quick-fix/338891)
 
-![Completed robot placeholder](images/completed-robot-placeholder.jpg)
+
